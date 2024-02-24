@@ -1,3 +1,6 @@
+`Статус проекта: завершен`   
+`Project status: completed`
+
 ### Анализ бизнес-показателей приложения Procrastinate Pro+
 ## Analysis_of_business_indicators
 Требуется провести маркетинговую аналитику развлекательного приложения Procrastinate Pro+.
